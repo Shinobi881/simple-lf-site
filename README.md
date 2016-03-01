@@ -1,2 +1,2 @@
 # simple-lf-site
-A simple html file for Longfellow students.
+A simple web page for Longfellow students.
