@@ -1,3 +1,21 @@
 body {
   background-color: green;
 }
+
+
+/* 'id' CSS slelector */
+#first-element {
+  color: red;
+  font-size: 100px;
+  text-align: center;
+}
+
+/* Apply to all 'my-text' class of elements */
+.my-text {
+  color: blue;
+}
+
+.my-text:hover {
+  font-size: 100px;
+  transition-duration: 3s;
+}
